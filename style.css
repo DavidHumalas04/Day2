@@ -1,0 +1,35 @@
+#title{
+    color: blue;
+    font-size: 100px;
+}
+
+.blue{
+    color: brown;
+}
+.size{
+    font-size: 100px;
+}
+h2{
+    color: red;
+}
+.date {
+    font-weight: Bold;
+    font-size: 2em;
+}
+#tagline{
+    color: orange;
+}
+
+p, a, .date{
+    margin: .5em auto;
+}
+p a {
+    font-size: 1.5em;
+}
+.box{
+    width: 200px;
+    height: 20%;
+    margin: 2em;
+    background-color: rgb(red, green, blue);
+
+}

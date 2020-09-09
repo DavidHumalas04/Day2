@@ -1,0 +1,47 @@
+#block{
+    display: block;
+}
+#inline p{
+    display: inline;
+}
+#inline-block p{
+    display: inline-block;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    border-color: salmon;
+    border-style: solid;
+    border width: 3px;
+    border-radius: 50%
+
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    border-bottom-style: solid;
+    border-color: slateblue;
+    border-width: 3px;
+}
+.space{
+    padding: 20px;
+    margin: 20px;
+
+}
+.space2{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.padding{
+    padding: 20px 0 10px 5px;
+}
+.padding1{
+    padding: 20px 0;
+}
+
